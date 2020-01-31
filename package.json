@@ -1,0 +1,28 @@
+{
+  "name": "simple_carousel",
+  "version": "1.0.0",
+  "description": "simple jQuery carousel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipedrumond/simple_carousel.git"
+  },
+  "keywords": [
+    "jQuery",
+    "jquery",
+    "npm",
+    "carousel",
+    "css",
+    "sass",
+    "js"
+  ],
+  "author": "Filipe Drumond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filipedrumond/simple_carousel/issues"
+  },
+  "homepage": "https://github.com/filipedrumond/simple_carousel#readme"
+}
